@@ -49,6 +49,11 @@ var states = {
     visited: "2017-03-04",
     description: "Hilton Head Island Spring Break"
   },
+  NJ: {
+    name: "New Jersey",
+    visited: "2018-03-04",
+    description: "HackPrinceton 2018"
+  },
   WA: {
     name: "Seattle, WA",
     visited: "2018-10-18",
