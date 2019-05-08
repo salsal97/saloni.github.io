@@ -51,6 +51,10 @@ table {
 	border-spacing: 0;
 }
 
+img {
+  border-radius: 50%;
+}
+
 body {
 	-webkit-text-size-adjust: none;
 }
