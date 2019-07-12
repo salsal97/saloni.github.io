@@ -2213,7 +2213,7 @@ input, select, textarea {
 
 		#header h1 {
 			color: #fff;
-			font-size: 3em;
+			font-size: 5em;
 			line-height: 1em;
 			font-weight:bold;
 		}
@@ -3054,7 +3054,7 @@ input, select, textarea {
 			}
 
 				#header .inner {
-					padding-top: 1.5em;
+					padding-top: 0;
 					padding-left: 1em;
 					padding-right: 1em;
 				}
