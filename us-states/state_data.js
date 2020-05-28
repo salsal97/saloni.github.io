@@ -55,8 +55,13 @@ var states = {
     description: "HackPrinceton 2018"
   },
   WA: {
-    name: "Seattle, WA",
-    visited: "2018-10-18",
-    description: "Microsoft Visit"
+    name: "Redmond, WA",
+    lived: "2018-10-18",
+    description: "Microsoft Visit - then shift"
+  },
+  IL: {
+    name: "Chicago, IL",
+    visited: "2019-11-01",
+    description: "Thanksgiving pt.1 2019"
   }
 }
